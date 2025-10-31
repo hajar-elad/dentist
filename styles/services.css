@@ -1,0 +1,32 @@
+.services {
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.service-infos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    flex-wrap: wrap;
+}
+
+
+.service {
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    background-image: url('../images/toothIcon1.png');
+    background-size: 55px;
+    background-repeat: no-repeat;
+    border: solid 1px rgb(108, 180, 247);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-weight: bold;
+}
