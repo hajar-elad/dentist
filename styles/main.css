@@ -37,7 +37,7 @@ body {
 }
 
 .whatsapp-img {
-    width: 85px;
+    width: 95px;
     z-index: 100;
 }
 
@@ -52,4 +52,5 @@ body {
     text-align: center;
     text-decoration: underline;
     color: rgb(210, 210, 252);
+
 }
